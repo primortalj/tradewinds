@@ -1,0 +1,13 @@
+# TradeWinds - Space Trading Adventure
+# Required packages for full functionality
+
+# Core GUI (required)
+# tkinter - comes with Python standard library
+
+# Windows TTS Support (recommended)
+pywin32>=306      # Windows SAPI TTS (preferred)
+pyttsx3>=2.90     # Cross-platform TTS (fallback)
+
+# Optional for future features
+# requests>=2.28.0    # For multiplayer networking (future)
+# websocket-client    # For real-time multiplayer (future)
